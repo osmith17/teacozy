@@ -123,5 +123,16 @@ body{
 }
 .locations-heading{
   margin-bottom: 15px;
-
+}
+.contact{
+  display: flex;
+  flex-direction: column;
+  height: 200px;
+  justify-content: center;
+  align-items: space-around;
+  margin-top: 20px;
+}
+.copyright{
+  margin-left: 20px;
+  align-self: flex-start;
 }
